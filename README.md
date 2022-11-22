@@ -1,6 +1,6 @@
 ## :vulcan_salute: Hi, I’m Wagner Berna
 - :man_student: I have a degree in Networks, with a postgraduate degree in Project Management and Network Engineering.
-- :alien: I'm specializing in the area of fullstack development with an emphasis on data with python.
+- :alien: I'm specializing in the area of fullstack development with an emphasis on data with Python.
 - 📫 cabelo29007@gmail.com
 <div>
   <a href="https://www.linkedin.com/in/wagnerberna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
