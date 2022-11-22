@@ -1,4 +1,5 @@
 ## :vulcan_salute: Hi, I’m Wagner Berna
+- :brazil: I'm from Brazil.
 - :man_student: I have a degree in Networks, with a postgraduate degree in Project Management and Network Engineering.
 - :alien: I'm specializing in the area of fullstack development with an emphasis on data with Python.
 - 📫 cabelo29007@gmail.com
