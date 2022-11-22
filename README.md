@@ -11,20 +11,20 @@
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [Django REST framework](https://www.django-rest-framework.org/)
-- [Flask](https://flask.palletsprojects.com/)
-- [Flask-RESTful](https://flask-restful.readthedocs.io/)
 - [Flask-RESTX](https://flask-restx.readthedocs.io/)
 - [Pytest](https://docs.pytest.org)
 - [Pydantic](https://pydantic-docs.helpmanual.io/)
-- [PyAutoGUI](https://pyautogui.readthedocs.io/)
+
+### :chart_with_upwards_trend: Data Processing and Graphics
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Openpyxl](https://openpyxl.readthedocs.io/)
 - [XlsxWriter](https://xlsxwriter.readthedocs.io/)
 
-- [Decouple](https://pypi.org/project/python-decouple/)
-- [Dotenv](https://pypi.org/project/python-dotenv/)
-- [Bcrypt](https://pypi.org/project/bcrypt/)
+### Web Scraping and Task Automation
+- [PyAutoGUI](https://pyautogui.readthedocs.io/)
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+- [Selenium](https://selenium-python.readthedocs.io/)
 
 ### 🌱 JS
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -47,9 +47,6 @@
 - [HTLM5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-
-### Web Scraping
-- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
 ### Others:
 - [Docker](https://www.docker.com/)
