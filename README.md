@@ -1,8 +1,8 @@
 ## :vulcan_salute: Hi, I’m Wagner Berna
 - :brazil: I'm from Brazil.
-- :man_student: I graduated in Computer Networks with a postgraduate degree in Project Management and Network Engineering.
-- :man_technologist: I am currently studying postgraduate in Data Science: Business Intelligence, Big Data and Analytics.
-- :ninja: I'm specializing in the area of fullstack development with an emphasis on data with Python.
+- :man_student: I graduated in Computer Networks and have a postgraduate degree in Project Management and Network Engineering.
+- :man_technologist: I am currently a postgraduate student in Data Science: Business Intelligence, Big Data and Analytics.
+- :ninja: I'm specializing in the area of fullstack development with an emphasis on data analytics with Python.
 - 📫 cabelo29007@gmail.com
 <div>
   <a href="https://www.linkedin.com/in/wagnerberna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
