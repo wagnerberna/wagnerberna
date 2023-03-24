@@ -28,9 +28,12 @@
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 - [Selenium](https://selenium-python.readthedocs.io/)
 
-### 🌱 JS
+### :white_check_mark: JS
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [NodeJS](https://nodejs.org/)
+
+### 🌱 R
+- [R](https://www.r-project.org)
 
 ### 🌱 GO
 - [Golang](https://go.dev/)
