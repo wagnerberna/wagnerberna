@@ -20,6 +20,7 @@
 ### :chart_with_upwards_trend: Data Processing and Graphics
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
+- [ChartJS](https://www.chartjs.org)
 - [Openpyxl](https://openpyxl.readthedocs.io/)
 - [XlsxWriter](https://xlsxwriter.readthedocs.io/)
 
