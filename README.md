@@ -25,7 +25,7 @@
 - [Openpyxl](https://openpyxl.readthedocs.io/)
 - [XlsxWriter](https://xlsxwriter.readthedocs.io/)
 
-### Web Scraping and Task Automation
+### :pencil: Web Scraping and Task Automation
 - [PyAutoGUI](https://pyautogui.readthedocs.io/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 - [Selenium](https://selenium-python.readthedocs.io/)
@@ -42,7 +42,7 @@
 - [Go Dotenv](https://github.com/joho/godotenv)
 - [Go Test](https://go.dev/doc/tutorial/add-a-test)
 
-### BD - ORM
+### :game_die: BD - ORM
 - [PostgreSQL](https://www.postgresql.org/)
 - [MySQL](https://www.mysql.com/)
 - [SQLite](https://www.sqlite.org/)
